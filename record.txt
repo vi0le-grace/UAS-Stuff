@@ -1,0 +1,44 @@
+#Day 1 - 02/10/24
+
+    Downloaded python, searched for some tutorial on youtube, to remember python once again (learned python in 11th, 12th).
+    Went through all the basic python including the data structures such as lists, tuples, dictionaries.
+    Nothing exciting or new for now, hoping to see something interesting soon.
+
+#Day 2 - 03/10/24
+
+    Gonna move onto the Step 3 - Numpy. Followed the link provided in the task pdf, Turned out it's paid (should have mentioned it).
+    Found some other video going over numpy. Turned out it was just him going over the functions, pretty boring, felt the official documentation is better.
+    Went over that, and started opencv.
+
+#Day 3 - 04/10/24
+
+    Had classes all day, then travelled back home after packing all the luggage, pretty tiring stuff and a pretty unproductive day ;/
+    Continued with opencv, just going over the basics and understanding what it can do.
+
+#Day 4 - 05/10/24
+
+    Understand it a bit better, but feel it would be wayyyy better once I start using it in the actual program.
+    Still, am starting to understanding how the image processing happens, completed the opencv tutorial thing, i gotta start working on the real problem.
+    Because I feel the deadline coming up.
+
+#Day 5 - 06/10/24
+
+    Starting work on the real problem, feel pretty nervous, but let's just start.
+    OMG, once I started working, I just kept on going. It feels pretty good, trying one thing after another, I guess working on the real thing is the way to go.
+    I tried using Threshold to seperate the houses and stuff. It worked out pretty well. Because the houses were conviniently blue and red coloured.
+    Although the same cannot be said about the grass area ;|
+
+#Day 6 - 07/10/24
+
+    The grass area are not just single coloured, the burnt area also had some green in it, threshold wasn't enough to seperate it, I would end up removing some green area if I increase it any more.
+    I tried using different types of blurs, in order to remove some of that noise from the burnt area side.
+    It did work pretty well till some extent ngl.
+    But i have no idea as to how to count the number of triangles, and was thinking of creating a map of whole area of both areas, and using the map over the red & blue houses seperately, to find houses in each area.
+    But I can't make the whole area unless i can seperate out the houses, lol. So, I am basically stuck in a loop.
+
+#Day 7 - 08/10/24
+
+    Had classes, then went to open my bank account, and went to lab 1.5 hours late. pretty fun stuff (suffering for 2 hours).
+    I didn't really do much today, I don't know why, it just felt wrong to work on the last day, I still was thinking how to solve the problems though.
+    It was pretty new and fun experience for me, irrespective of if I get selected or not, I got to learn something new. The mentor guy told me what I didn't know and i can learn.
+    Also, I was thinking of how I can atleast do the first part, by making three parts (BGR) adding all the components of the image of different intensities based on the color i want them to be, idk if that's the most optimal way, but whatever, But I didn't do that either today idk why lol.
